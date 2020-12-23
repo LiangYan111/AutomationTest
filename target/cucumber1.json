@@ -1,0 +1,85 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 10,
+        "name": "Validate driver",
+        "description": "",
+        "id": "check-driver-fengzhuang;validate-driver;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 10546233800,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I input baidu url",
+            "match": {
+              "location": "CheckDriverStep.goToBaiduHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3149715000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I input \"web automation test\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "web automation test",
+                  "offset": 9
+                }
+              ],
+              "location": "CheckDriverStep.inputKeyWords(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3040112000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I submit it 1",
+            "match": {
+              "location": "CheckDriverStep.submitAction()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 916060200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should be able to see related information 1",
+            "match": {
+              "location": "CheckDriverStep.seeResults()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 2,
+            "name": "@1209"
+          }
+        ]
+      }
+    ],
+    "name": "check Driver fengzhuang",
+    "description": "",
+    "id": "check-driver-fengzhuang",
+    "keyword": "Feature",
+    "uri": "checkDriver.feature"
+  }
+]
