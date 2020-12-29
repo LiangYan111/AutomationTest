@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f35c35fe-ce35-476e-a5ba-651b2424af55" name="Default Changelist" comment="second commit on 2020.12.23" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\55403\.m2\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Users\55403\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bn1UHLAF5ZTF5XMTqmWtMD1dpF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/drivers" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.18850575" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\55403\IdeaProjects\maventest\drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Screenshots">
+    <configuration name="BaiDuSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaiDuSearch" />
+      <module name="maventest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImoocLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImoocLogin" />
+      <module name="maventest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Validate driver" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/checkDriver.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="maventest" />
+      <option name="NAME_FILTER" value="^Validate driver$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Validate driver$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Validate driver" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="maventest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="run.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="run" />
+      <option name="MAIN_CLASS_NAME" value="run.RunTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Screenshots" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="maventest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Screenshots" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Screenshots" />
+        <item itemvalue="Application.ImoocLogin" />
+        <item itemvalue="Application.BaiDuSearch" />
+        <item itemvalue="TestNG.RunTest" />
+        <item itemvalue="Cucumber Java.Scenario: Validate driver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f35c35fe-ce35-476e-a5ba-651b2424af55" name="Default Changelist" comment="" />
+      <created>1589253058052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589253058052</updated>
+    </task>
+    <task id="LOCAL-00001" summary="second commit on 2020.12.23">
+      <created>1608723472120</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608723472120</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second commit on 2020.12.23" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit on 2020.12.23" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="651" y="274" key="#Notifications" timestamp="1608794083938">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="651" y="274" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1608794083938" />
+    <state x="249" y="0" key="#Project_Structure" timestamp="1606815844802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1606815844802" />
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1600413545475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1600413545475" />
+    <state x="560" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607500847448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="560" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1607500847448" />
+    <state width="1493" height="88" key="GridCell.Tab.0.bottom" timestamp="1608038485131">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="88" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608038485131" />
+    <state width="1493" height="88" key="GridCell.Tab.0.center" timestamp="1608038485131">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="88" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608038485131" />
+    <state width="1493" height="88" key="GridCell.Tab.0.left" timestamp="1608038485131">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="88" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608038485131" />
+    <state width="1493" height="88" key="GridCell.Tab.0.right" timestamp="1608038485131">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="88" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608038485131" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1607510051463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1607510051463" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1608720597993">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1608720597993" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1608726295835">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608726295835" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/maventest$BaiduLoginPage_testDemo1.ic" NAME="BaiduLoginPage.testDemo1 Coverage Results" MODIFIED="1596077695570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pages.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/maventest$BaiDuSearch.ic" NAME="BaiDuSearch Coverage Results" MODIFIED="1595933563530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
