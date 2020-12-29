@@ -21,7 +21,7 @@ public class TestNGDemo {
 
     @Test
     public void assertEquals(){
-      String a = "qqqq";
+      String a = "aaaa";
       String b = "aaaa";
         Assert.assertEquals(a,b);
     }
