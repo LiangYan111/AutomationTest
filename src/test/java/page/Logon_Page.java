@@ -6,5 +6,5 @@ import org.openqa.selenium.support.FindBy;
 public class Logon_Page {
 
     @FindBy(id = "kw")
-    WebElement inputBox;
+    WebElement inputBox123;
 }
