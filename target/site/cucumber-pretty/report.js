@@ -104,7 +104,7 @@ formatter.match({
   "location": "CheckDriverStep.goToBaiduHomePage()"
 });
 formatter.result({
-  "duration": 10546233800,
+  "duration": 15708895101,
   "status": "passed"
 });
 formatter.match({
@@ -117,21 +117,21 @@ formatter.match({
   "location": "CheckDriverStep.inputKeyWords(String)"
 });
 formatter.result({
-  "duration": 3149715000,
+  "duration": 3235782600,
   "status": "passed"
 });
 formatter.match({
   "location": "CheckDriverStep.submitAction()"
 });
 formatter.result({
-  "duration": 3040112000,
+  "duration": 3093553500,
   "status": "passed"
 });
 formatter.match({
   "location": "CheckDriverStep.seeResults()"
 });
 formatter.result({
-  "duration": 916060200,
+  "duration": 986645400,
   "status": "passed"
 });
 });

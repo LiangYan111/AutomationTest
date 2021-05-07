@@ -10,7 +10,7 @@ import cucumber.api.testng.AbstractTestNGCucumberTests;
                 "rerun:target/rerun.txt",
                 "json:target/cucumber1.json"},
         tags = {"@1209"},      //执行标注此tag的case
-        glue={"steps"}         //step文件所在的包的名字
+        glue={"step"}         //step文件所在的包的名字
 )
 
 public class RunTest extends AbstractTestNGCucumberTests {        //必须继承AbstractTestNGCucumberTests类
