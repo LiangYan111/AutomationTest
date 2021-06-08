@@ -9,7 +9,7 @@ import cucumber.api.testng.AbstractTestNGCucumberTests;
                 "html:target/site/cucumber-pretty",
                 "rerun:target/rerun.txt",
                 "json:target/cucumber1.json"},
-        tags = {"@1209"},      //执行标注此tag的case
+        tags = {"@test1"},      //执行标注此tag的case
         glue={"step"}         //step文件所在的包的名字
 )
 

@@ -20,8 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f35c35fe-ce35-476e-a5ba-651b2424af55" name="Default Changelist" comment="second commit on 2020.12.23 commit by updating">
+      <change afterPath="$PROJECT_DIR$/target/test-classes/page/BaiduLogin_Page.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/BaiduLogin_Flow.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/page/Logon_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/page/Logon_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/page/Logon_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/page/BaiduLogin_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/BaiduLoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/BaiduLogin_Flow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/run/RunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/run/RunTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step/CheckDriverStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/step/CheckDriverStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step/LoginBaiduStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/step/LoginBaiduStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber1.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/cucumber-pretty/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/cucumber-pretty/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/BaiduLoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/run/RunTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/run/RunTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/CheckDriverStep.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/step/CheckDriverStep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/LoginBaiduStep.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/step/LoginBaiduStep.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +45,7 @@
       <list>
         <option value="HTML File" />
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -62,9 +75,12 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.18850575" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pages" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\55403\IdeaProjects\maventest" />
       <recent name="C:\Users\55403\IdeaProjects\maventest\drivers" />
@@ -196,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620359867017</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="second commit on 2020.12.23 commit by updating">
+      <created>1620364799458</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1620364799458</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,42 +244,78 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="406" y="346" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1620351435639" />
-    <state x="71" y="72" key="DiffContextDialog" timestamp="1620359982215">
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1621519990210">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="71" y="72" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1620359982215" />
-    <state width="1254" height="2" key="GridCell.Tab.0.bottom" timestamp="1618372276307">
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1621519990210" />
+    <state x="71" y="72" key="DiffContextDialog" timestamp="1620370070276">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1254" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618372276307" />
-    <state width="1254" height="2" key="GridCell.Tab.0.center" timestamp="1618372276307">
+    <state x="71" y="72" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1620370070276" />
+    <state x="795" y="157" key="FileChooserDialogImpl" timestamp="1623153339449">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1254" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1618372276307" />
-    <state width="1254" height="2" key="GridCell.Tab.0.left" timestamp="1618372276307">
+    <state x="795" y="157" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1623153339449" />
+    <state width="754" height="250" key="GridCell.Tab.0.bottom" timestamp="1621611025708">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1254" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1618372276307" />
-    <state width="1254" height="2" key="GridCell.Tab.0.right" timestamp="1618372276307">
+    <state width="754" height="250" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1621611025708" />
+    <state width="754" height="250" key="GridCell.Tab.0.center" timestamp="1621611025708">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1254" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1618372276307" />
-    <state x="255" y="37" key="SettingsEditor" timestamp="1620354218948">
+    <state width="754" height="250" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1621611025708" />
+    <state width="754" height="250" key="GridCell.Tab.0.left" timestamp="1621611025708">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="255" y="37" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1620354218948" />
-    <state x="596" y="175" width="814" height="537" key="Vcs.Push.Dialog.v2" timestamp="1620364760966">
+    <state width="754" height="250" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1621611025708" />
+    <state width="754" height="250" key="GridCell.Tab.0.right" timestamp="1621611025708">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="596" y="175" width="814" height="537" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1620364760966" />
+    <state width="754" height="250" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1621611025708" />
+    <state width="754" height="250" key="GridCell.Tab.1.bottom" timestamp="1621611025709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="754" height="250" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1621611025709" />
+    <state width="754" height="250" key="GridCell.Tab.1.center" timestamp="1621611025709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="754" height="250" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1621611025709" />
+    <state width="754" height="250" key="GridCell.Tab.1.left" timestamp="1621611025708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="754" height="250" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1621611025708" />
+    <state width="754" height="250" key="GridCell.Tab.1.right" timestamp="1621611025709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="754" height="250" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1621611025709" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1621519951805">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1621519951805" />
+    <state x="255" y="37" key="SettingsEditor" timestamp="1623154815729">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="255" y="37" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1623154815729" />
+    <state x="596" y="175" width="814" height="537" key="Vcs.Push.Dialog.v2" timestamp="1620370136342">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="596" y="175" width="814" height="537" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1620370136342" />
     <state x="529" y="337" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618477446519">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="529" y="337" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1618477446519" />
-    <state x="419" y="126" key="git4idea.merge.GitPullDialog" timestamp="1620359564468">
+    <state x="265" y="171" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1621610700278">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="419" y="126" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1620359564468" />
+    <state x="265" y="171" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1621610700278" />
+    <state x="419" y="126" key="git4idea.merge.GitPullDialog" timestamp="1620370168287">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="419" y="126" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1620370168287" />
+    <state x="549" y="157" key="refactoring.ChangeSignatureDialog" timestamp="1621519935856">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="157" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1621519935856" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/maventest$BaiduLoginPage_testDemo1.ic" NAME="BaiduLoginPage.testDemo1 Coverage Results" MODIFIED="1596077695570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

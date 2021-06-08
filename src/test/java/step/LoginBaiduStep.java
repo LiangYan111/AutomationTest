@@ -4,11 +4,11 @@ import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
-import pages.BaiduLoginPage;
+import pages.BaiduLogin_Flow;
 
 public class LoginBaiduStep {
 
-    BaiduLoginPage ll = new BaiduLoginPage();
+    BaiduLogin_Flow ll = new BaiduLogin_Flow();
 
     @Given("^User input baidu url$")
     public void goToBaiduHomePage() throws InterruptedException {
